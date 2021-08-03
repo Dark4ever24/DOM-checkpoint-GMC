@@ -6,13 +6,13 @@ let btn = document.querySelectorAll(".btnplus");
 let btnm = document.querySelectorAll(".btnminus");
 
 let qte = document.querySelectorAll(".qte");
-/////
-
 
 
 let totalPrice = document.getElementById("totalPrice");
 
 let price = document.querySelectorAll(".price");
+
+/////
 
 let prices = []
 for (let i=0; i < price.length; i++)
